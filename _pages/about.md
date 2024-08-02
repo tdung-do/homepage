@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Brick mosaic](/images/frankenstein.jpg "Brick Mosaic"){: .align-right width="300px"}
+![Brick mosaic](../images/frankenstein.jpg "Brick Mosaic"){: .align-right width="300px"}
 🤓 I'm a PhD student at David R. Cheriton School of Computer Science, University of Waterloo.
 
 🖼️ My current research interests are in Computer Graphics and Mathematical Arts.
