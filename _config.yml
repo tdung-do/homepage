@@ -21,11 +21,11 @@ repository               : "tdung-do/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Tuan Dung Do"
+  avatar           : "profile1.jpg"
+  name             : "Tuan Dung (Brian) Do"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Student at University of Waterloo"
+  location         : "Ontario, Canada"
   employer         : "University of Waterloo"
   uri              : # URL
   email            : "bdo@uwaterloo.ca" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "homepage"
+  github           : "tdung-do"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
