@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Zigzag Waves](../images/zigzag_waves.png "Zigzag waves"){: .align-right width="300px"}
+![Zigzag Waves](../images/zigzag_waves.png "Zigzag waves")
 <!-- ![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="300px"} -->
 
 🤓 I'm a PhD student at David R. Cheriton School of Computer Science, University of Waterloo.
