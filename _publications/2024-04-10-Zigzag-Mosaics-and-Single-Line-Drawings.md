@@ -11,4 +11,4 @@ citation: 'Bosch, R., & Do, T. D. (2024). Zigzag mosaics and single-line drawing
 
 We introduce several varieties of zigzag tiles and describe how to use them to make mosaics and single-line drawings.
 
-(/images/zigzag_waves.png)
+![Zigzag Waves](/images/zigzag_waves.png)
