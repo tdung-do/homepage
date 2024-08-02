@@ -24,7 +24,7 @@ author:
   avatar           : "profile1.jpg"
   name             : "Tuan Dung (Brian) Do"
   pronouns         : "he/him"  
-  bio              : "PhD Student at University of Waterloo"
+  bio              : "Computer Graphics"
   location         : "Ontario, Canada"
   employer         : "University of Waterloo"
   uri              : # URL
@@ -61,7 +61,7 @@ author:
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : "ddo_music"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
