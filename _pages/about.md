@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
+<img src="../images/frank.png" alt="Brick mosaic" title="Brick Mosaic" class="align-right" width="200px">
+<!-- ![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="200px"} -->
 🤓 I'm a PhD student at David R. Cheriton School of Computer Science, University of Waterloo.
-![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="200px"}
+
 🖼️ My current research interests are in Computer Graphics and Mathematical Arts.
 
 🔬 I'm also interested in Algorithmic and Game Theory.
