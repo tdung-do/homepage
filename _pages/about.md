@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![Zigzag Waves](../images/zigzag_waves.png "Zigzag waves")
-<!-- ![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="300px"} -->
 
 🤓 I'm a PhD student at David R. Cheriton School of Computer Science, University of Waterloo.
-
+![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="200px"}
 🖼️ My current research interests are in Computer Graphics and Mathematical Arts.
 
 🔬 I'm also interested in Algorithmic and Game Theory.
