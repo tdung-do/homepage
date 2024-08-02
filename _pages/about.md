@@ -3,12 +3,12 @@ permalink: /
 title: "👋🏻 Hi, I'm Dung and you can call me Brian!"
 excerpt: "About me"
 author_profile: true
-# redirect_from: 
-#   - /about/
-#   - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="300px"}
-m 🤓 I'm a PhD student at David R. Cheriton School of Computer Science, University of Waterloo.
+<!-- ![Brick mosaic](../images/frank.png "Brick Mosaic"){: .align-right width="300px"} -->
+🤓 I'm a PhD student at David R. Cheriton School of Computer Science, University of Waterloo.
 
 🖼️ My current research interests are in Computer Graphics and Mathematical Arts.
 
