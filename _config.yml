@@ -12,8 +12,8 @@ title                    : "Tuan Dung's Homepage"
 title_separator          : "-"
 name                     : &name "Tuan Dung Do"
 description              : &description "personal description"
-url                      : https://tdung-do.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : https://tdung-do.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tdung-do/homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
